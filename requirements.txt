@@ -1,0 +1,9 @@
+audio_recorder_streamlit
+langdetect
+streamlit
+torch
+torchvision
+transformers
+numpy
+openai
+python-dotenv
